@@ -36,4 +36,4 @@ class FlyoutLabelField extends \LiteralField {
 			$this->Content
 		);
 	}
-} 
+}

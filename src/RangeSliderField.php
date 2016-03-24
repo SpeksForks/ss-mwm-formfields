@@ -185,4 +185,4 @@ class RangeSliderField extends FormField
 
         return parent::Field($properties);
     }
-} 
+}

@@ -542,4 +542,4 @@ class HasOneCompositeField extends CompositeField
 
         return $callback ? array_filter($input, $callback) : array_filter($input);
     }
-} 
+}
